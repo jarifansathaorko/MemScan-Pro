@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Chip Pins -->
+    <!-- Top Pins -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M38,24h4v8h-4z M46,24h4v8h-4z M58,24h4v8h-4z M66,24h4v8h-4z" />
+    <!-- Bottom Pins -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M38,76h4v8h-4z M46,76h4v8h-4z M58,76h4v8h-4z M66,76h4v8h-4z" />
+    <!-- Left Pins -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M24,38h8v4h-8z M24,46h8v4h-8z M24,58h8v4h-8z M24,66h8v4h-8z" />
+    <!-- Right Pins -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M76,38h8v4h-8z M76,46h8v4h-8z M76,58h8v4h-8z M76,66h8v4h-8z" />
+    <!-- Main IC Package Body -->
+    <path
+        android:fillColor="#2D2F33"
+        android:strokeColor="#D0BCFF"
+        android:strokeWidth="2.5"
+        android:pathData="M36,32h36a4,4 0 0,1 4,4v36a4,4 0 0,1 -4,4h-36a4,4 0 0,1 -4,-4v-36a4,4 0 0,1 4,-4z" />
+    <!-- Center Core / Die -->
+    <path
+        android:fillColor="#381E72"
+        android:pathData="M43,43h22v22h-22z" />
+    <!-- Glowing Crosshair Scanner Lines inside chip -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B2F2BB"
+        android:strokeWidth="2"
+        android:pathData="M47,54h14 M54,47v14" />
+    <!-- Corner Circuit Markers -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M40,36h3v3h-3z M65,36h3v3h-3z M40,69h3v3h-3z M65,69h3v3h-3z" />
+</vector>

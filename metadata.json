@@ -1,0 +1,6 @@
+{
+  "name": "MemScan Pro",
+  "description": "Android memory inspection and editing tool with JNI native engine, multi-type scanner, and hex editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
